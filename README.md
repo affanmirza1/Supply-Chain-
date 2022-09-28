@@ -1,7 +1,7 @@
 # Supply-Chain-
 Frontend and Backend.
 
-Deploy address = 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+Deploy address = 0xe2899bddFD890e320e643044c6b95B9B0b84157A
 
 ABI:
 
